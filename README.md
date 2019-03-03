@@ -1,2 +1,2 @@
 # Java-Cajero
-Practica programación - Cajero
+Práctica programación - Cajero
